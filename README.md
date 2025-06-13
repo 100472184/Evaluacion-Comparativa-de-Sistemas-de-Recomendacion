@@ -15,7 +15,7 @@ El objetivo principal es implementar y analizar distintos enfoques de recomendac
 | Tradicional | Filtrado colaborativo (usuario-usuario) | `Surprise`                          |
 | Tradicional | Filtrado colaborativo (ítem-ítem)      | `Surprise`                          |
 | Tradicional | Factorización matricial (SVD)          | `PyTorch`                           |
-| Tradicional | Filtrado basado en contenido (MLP)     | `SentenceTransformers` + `PyTorch`  |
+| Tradicional | Filtrado basado en contenido (MLP)     | `PyTorch`  |
 | Avanzado    | Red Neuronal Multicapa (MLP)           | `PyTorch`                           |
 | Avanzado    | Modelo LLM (OpenP5)                    | `HuggingFace` + `OpenP5`            |
 
