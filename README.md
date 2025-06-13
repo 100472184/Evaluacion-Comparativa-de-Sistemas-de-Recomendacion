@@ -38,7 +38,8 @@ Copiar
 Editar
 
 ---
-
+##  Descarga de datasets
+Para descargar los datasets se ha de acceder a esta página web: https://grouplens.org/datasets/movielens/ 
 ##  Ejecución
 
 Cada modelo se ejecuta de forma independiente desde `src/`. Ejemplos:
@@ -57,7 +58,7 @@ results/graficas/: visualizaciones (bar charts, radar charts, etc.)
 
 Se han empleado métricas tanto clásicas como semánticas y de cobertura/diversidad.
 
-⚙️ Requisitos
+Requisitos
 Python 3.10+
 
 Bibliotecas: pandas, numpy, torch, sentence-transformers, surprise, matplotlib, transformers, scikit-learn, etc.
