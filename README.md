@@ -8,7 +8,7 @@ El objetivo principal es implementar y analizar distintos enfoques de recomendac
 
 ---
 
-## 📌 Métodos implementados
+## Métodos implementados
 
 | Enfoque     | Método                                 | Implementación                       |
 |-------------|----------------------------------------|--------------------------------------|
@@ -21,7 +21,7 @@ El objetivo principal es implementar y analizar distintos enfoques de recomendac
 
 ---
 
-## 📁 Estructura del repositorio
+## Estructura del repositorio
 
 TFG-Justin/
 ├── datasets/ # Datos filtrados y embeddings
@@ -39,7 +39,7 @@ Editar
 
 ---
 
-## ▶️ Ejecución
+##  Ejecución
 
 Cada modelo se ejecuta de forma independiente desde `src/`. Ejemplos:
 
