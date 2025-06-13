@@ -6,8 +6,6 @@ Este repositorio contiene el Trabajo de Fin de Grado titulado:
 
 El objetivo principal es implementar y analizar distintos enfoques de recomendación, tanto clásicos como modernos, evaluando su rendimiento y comportamiento bajo un marco común de métricas.
 
----
-
 ## Métodos implementados
 
 | Enfoque     | Método                                 | Implementación                       |
@@ -22,7 +20,7 @@ El objetivo principal es implementar y analizar distintos enfoques de recomendac
 ---
 
 ## Estructura del repositorio
-
+````bash
 TFG-Justin/
 ├── datasets/ # Datos filtrados y embeddings
 ├── src/ # Implementación de modelos
@@ -32,12 +30,7 @@ TFG-Justin/
 ├── results/ # Predicciones, métricas y gráficas
 ├── utils/ # Métricas personalizadas y utilidades
 ├── memoria/ # Documento LaTeX y figuras del TFG
-
-yaml
-Copiar
-Editar
-
----
+````
 ##  Descarga de datasets
 Para descargar los datasets se ha de acceder a esta página web: https://grouplens.org/datasets/movielens/ 
 ##  Ejecución
