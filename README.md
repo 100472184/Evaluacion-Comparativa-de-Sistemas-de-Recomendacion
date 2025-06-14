@@ -26,9 +26,9 @@ TFG-Justin/
 ├── src/ # Implementación de modelos
 │ ├── modelos_tradicionales/
 │ ├── modelos_avanzados/
+| ├── utils/ # Métricas personalizadas y utilidades
 │ └── evaluation/
 ├── results/ # Predicciones, métricas y gráficas
-├── utils/ # Métricas personalizadas y utilidades
 ````
 ##  Descarga de datasets
 Para descargar los datasets se ha de acceder a esta página web: https://grouplens.org/datasets/movielens/ 
