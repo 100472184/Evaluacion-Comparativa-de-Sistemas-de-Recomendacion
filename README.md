@@ -34,14 +34,9 @@ TFG-Justin/
 Para descargar los datasets se ha de acceder a esta página web: https://grouplens.org/datasets/movielens/ 
 ##  Ejecución
 
-Cada modelo se ejecuta de forma independiente desde `src/`. Ejemplos:
+Cada modelo se ejecuta de forma independiente desde `src/`
 
-```bash
-python src/modelos_tradicionales/filtrado_uu/train_knn_uu.py
-python src/modelos_avanzados/mlp/train_mlp_embeddings.py
-Las evaluaciones y métricas están centralizadas en src/evaluation/.
-````
-Resultados
+## Resultados
 Los resultados de cada modelo se almacenan en:
 
 results/metrics/: métricas numéricas (RMSE, MAE, R², etc.)
