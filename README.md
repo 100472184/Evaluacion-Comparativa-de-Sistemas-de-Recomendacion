@@ -29,7 +29,6 @@ TFG-Justin/
 │ └── evaluation/
 ├── results/ # Predicciones, métricas y gráficas
 ├── utils/ # Métricas personalizadas y utilidades
-├── memoria/ # Documento LaTeX y figuras del TFG
 ````
 ##  Descarga de datasets
 Para descargar los datasets se ha de acceder a esta página web: https://grouplens.org/datasets/movielens/ 
